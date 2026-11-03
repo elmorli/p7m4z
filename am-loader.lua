@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://am-universal-keys.agustinmorlan.workers.dev/loader.lua"))()
+loadstring(game:HttpGet("https://am-universal-keys.agustinmorlan.workers.dev/w/loader.lua"))()
